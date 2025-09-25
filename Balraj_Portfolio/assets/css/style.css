@@ -1262,9 +1262,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .clients-item { min-width: calc(33.33% - 10px); }
 	
-.testimonials-item-title {
-  margin-top: 15px;
-}
+ .testimonials-item-title {
+    margin-bottom: 10px;
+    margin-left: 95px;
+   
+  }
 
 
   /**
