@@ -1263,7 +1263,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .clients-item { min-width: calc(33.33% - 10px); }
 	
 .testimonials-item-title {
-  margin-top: 10px;
+  margin-top: 15px;
 }
 
 
